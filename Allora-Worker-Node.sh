@@ -8,7 +8,7 @@ print_intro() {
     echo "║     https://twitter.com/Maranscrypto                     ║"
     echo "║                                                          ║"
     echo "║     Join us on Telegram:                                 ║"
-    echo "║     - https://t.me/Maranscrypto                          ║"
+    echo "║     https://t.me/Maranscrypto                          ║"
     echo "╚════════════════════════════════════════════════════════════"
     read -p 'Will you Continue? (Y/N): ' answer
     if [[ "$answer" != "Y" && "$answer" != "y" ]]; then
@@ -211,5 +211,5 @@ docker-compose up -d
 docker ps
 
 echo "════════════════════════════════════════════════════════════"
-echo "║     Script written by MARAN'S CRYPTO                      ║"
+echo "║              Script written by MARAN'S CRYPTO                      ║"
 echo "════════════════════════════════════════════════════════════"
