@@ -1,1 +1,4 @@
-#Clone The Script
+𝗖𝗹𝗼𝗻𝗲 𝗧𝗵𝗲 𝗦𝗰𝗿𝗶𝗽𝘁
+```bash
+wget https://raw.githubusercontent.com/gowthamaran/Light-Nodes/main/Allora-Worker-Node.sh && chmod +x Allora-Worker-Node.sh && ./Allora-Worker-Node.sh
+```
