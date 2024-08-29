@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to the Nillion Verifier auto-installer by Happy Cuan Airdrop"
+echo "Welcome to the Nillion Verifier auto-installer by Maranscrypto"
 echo ""
 
 cd $HOME
